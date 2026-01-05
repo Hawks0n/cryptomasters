@@ -31,3 +31,4 @@ func FetchPrices(url string) (models.CryptoPrice, error) {
 
 	return prices, nil
 }
+

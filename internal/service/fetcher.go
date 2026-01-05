@@ -37,3 +37,4 @@ func FetchAllPrices(coins []string) {
 
 	wg.Wait()
 }
+

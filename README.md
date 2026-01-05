@@ -26,7 +26,7 @@ cryptomasters/
 
 How to run
 
-```bash
+
 go mod tidy
 go run cmd/server/main.go
 ![Screenshot_2026-01-05_09_28_09_page-0001](https://github.com/user-attachments/assets/3ba0393d-b1e0-4c75-84d2-2dfb07746bcb)

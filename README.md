@@ -35,11 +35,5 @@ go run cmd/server/main.go
 Example output:
 ![Screenshot_2026-01-05_09_28_09_page-0002](https://github.com/user-attachments/assets/177636df-eb0b-4c54-9f68-cffc89e63ba2)
 
-nginx
-Copy code
-CryptoMasters started
 
-bitcoin → $43210.00
-ethereum → $2310.45
-Done
 
